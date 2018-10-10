@@ -4,8 +4,8 @@ A simple app created in React Native for storing and visualizing movements betwe
 
 ## Requisites
 
-[NodeJS](https://nodejs.org/en/)
-[Yarn](https://yarnpkg.com/es-ES/docs/install)
+[NodeJS](https://nodejs.org/en/)<br/>
+[Yarn](https://yarnpkg.com/es-ES/docs/install)<br/>
 [Android Studio](https://developer.android.com/studio/)
 
 ## How to use in dev environment
