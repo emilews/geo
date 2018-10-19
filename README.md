@@ -14,7 +14,7 @@ Simply clone this repo in a directory easily accesible, then you must access the
 ```
 npm install
 ```
-This will install all the dependencies of the project.Then you can just open the "android" folder inside it on Android Studio and let Gradle do the syncing process.
+This will install all the dependencies of the project. After that you can just open the "android" folder inside it on Android Studio and let Gradle do the syncing process.
 
 When the process finishes you can hit the play button to run the app inside a virtual device or a physical device (for this, you must have the **__debug option enabled__** in the Developer options menu inside settings and the device must be connected through USB to the PC), for either of the options, you must go to to the cloned repo before and type in the terminal:
 ```
